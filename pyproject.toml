@@ -30,7 +30,7 @@ plotly = "^5.5.0"
 pandas = "^1.3.5"
 httpx = "^0.22.0"
 Authlib = "^0.15.5"
-kaleido = "0.2.1"
+kaleido = "0.2.1.post1"
 sendgrid = "^6.9.5"
 Pillow = "^9.0.1"
 
